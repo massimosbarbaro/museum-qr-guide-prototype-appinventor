@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23205249"
 repository-code: "https://github.com/massimosbarbaro/museum-qr-guide-prototype-android"
 keywords:
-  - "MIT App Inventor"
   - "Android"
   - "QR code"
   - "museum guide"
